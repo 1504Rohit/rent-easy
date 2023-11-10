@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366055150946",
+    "project_id": "rent-eazy",
+    "storage_bucket": "rent-eazy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366055150946:android:d63d68d03ae48396e9483b",
+        "android_client_info": {
+          "package_name": "com.example.rent_easy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVN3ofmIgk5JWgaV7o06h3sMJNwhrQ9mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
